@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["paperclip_core"] = [{"text":"impl&lt;T&gt; Future for Ready&lt;T&gt;","synthetic":false,"types":[]},{"text":"impl&lt;F, T, H&gt; Future for ResponseWrapper&lt;F, H&gt; <span class=\"where fmt-newline\">where<br>&nbsp;&nbsp;&nbsp;&nbsp;F: Future&lt;Output = T&gt;,<br>&nbsp;&nbsp;&nbsp;&nbsp;T: OperationModifier + Responder,<br>&nbsp;&nbsp;&nbsp;&nbsp;H: Apiv2Operation,&nbsp;</span>","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["paperclip_core"] = [{"text":"impl PartialOrd&lt;MediaRange&gt; for MediaRange","synthetic":false,"types":[]},{"text":"impl PartialOrd&lt;ParameterIn&gt; for ParameterIn","synthetic":false,"types":[]},{"text":"impl PartialOrd&lt;CollectionFormat&gt; for CollectionFormat","synthetic":false,"types":[]},{"text":"impl PartialOrd&lt;OperationProtocol&gt; for OperationProtocol","synthetic":false,"types":[]},{"text":"impl PartialOrd&lt;HttpMethod&gt; for HttpMethod","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

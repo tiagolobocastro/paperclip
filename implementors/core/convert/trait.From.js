@@ -1,0 +1,5 @@
+(function() {var implementors = {};
+implementors["paperclip"] = [{"text":"impl From&lt;Error&gt; for PaperClipError","synthetic":false,"types":[]},{"text":"impl From&lt;Error&gt; for PaperClipError","synthetic":false,"types":[]},{"text":"impl From&lt;Error&gt; for PaperClipError","synthetic":false,"types":[]},{"text":"impl From&lt;ValidationError&gt; for PaperClipError","synthetic":false,"types":[]},{"text":"impl From&lt;Error&gt; for PaperClipError","synthetic":false,"types":[]},{"text":"impl&lt;S&gt; From&lt;EmitterState&gt; for DefaultEmitter&lt;S&gt;","synthetic":false,"types":[]}];
+implementors["paperclip_actix"] = [{"text":"impl&lt;'a&gt; From&lt;&amp;'a mut ServiceConfig&gt; for ServiceConfig&lt;'a&gt;","synthetic":false,"types":[]}];
+implementors["paperclip_core"] = [{"text":"impl&lt;'_&gt; From&lt;&amp;'_ Method&gt; for HttpMethod","synthetic":false,"types":[]},{"text":"impl&lt;S&gt; From&lt;S&gt; for Resolvable&lt;S&gt;","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

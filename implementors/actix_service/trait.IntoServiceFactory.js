@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["paperclip_actix"] = [{"text":"impl&lt;T&gt; IntoServiceFactory&lt;T&gt; for Resource&lt;Resource&lt;T&gt;&gt; <span class=\"where fmt-newline\">where<br>&nbsp;&nbsp;&nbsp;&nbsp;T: ServiceFactory&lt;Config = (), Request = ServiceRequest, Response = ServiceResponse, Error = Error, InitError = ()&gt; + 'static,&nbsp;</span>","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

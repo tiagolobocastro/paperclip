@@ -1,0 +1,4 @@
+(function() {var implementors = {};
+implementors["paperclip"] = [{"text":"impl Eq for EmitMode","synthetic":false,"types":[]}];
+implementors["paperclip_core"] = [{"text":"impl Eq for MediaRange","synthetic":false,"types":[]},{"text":"impl Eq for Version","synthetic":false,"types":[]},{"text":"impl Eq for DataType","synthetic":false,"types":[]},{"text":"impl Eq for DataTypeFormat","synthetic":false,"types":[]},{"text":"impl Eq for SpecFormat","synthetic":false,"types":[]},{"text":"impl Eq for ParameterIn","synthetic":false,"types":[]},{"text":"impl Eq for CollectionFormat","synthetic":false,"types":[]},{"text":"impl Eq for OperationProtocol","synthetic":false,"types":[]},{"text":"impl Eq for HttpMethod","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
